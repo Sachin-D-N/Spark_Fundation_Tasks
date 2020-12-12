@@ -35,3 +35,12 @@ Attribute Information:
 - From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 - I am Using python and Sklearn for this task.
 - Data can be found [here](https://bit.ly/3kXTdox)
+
+# Task 3
+
+Perform Exploratory Data Analysis on dataset SampleSuperstore
+
+- As a business manager, try to find out the weak areas where you can work to make more profit.
+- What all business problems you can derive by exploring the data?
+- I am Using python and pandas for this task.
+- Data can be found [here](https://bit.ly/3i4rbWl)
